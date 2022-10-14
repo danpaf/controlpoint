@@ -1,0 +1,15 @@
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ControlPoint.exe
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ControlPoint.deps.json
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ControlPoint.runtimeconfig.json
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ControlPoint.dll
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ref\ControlPoint.dll
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\bin\Debug\net6.0\ControlPoint.pdb
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.csproj.AssemblyReference.cache
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.AssemblyInfoInputs.cache
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.AssemblyInfo.cs
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.csproj.CoreCompileInputs.cache
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.dll
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ref\ControlPoint.dll
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.pdb
+C:\Users\zxceb\telegabotMGPDESTROY\ControlPoint\ControlPoint\obj\Debug\net6.0\ControlPoint.genruntimeconfig.cache
